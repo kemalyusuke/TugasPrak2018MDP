@@ -1,0 +1,12 @@
+C:\Users\owner\source\repos\Kelompok27\Kelompok27\Kelompok27\bin\Debug\netstandard2.0\Kelompok27.deps.json
+C:\Users\owner\source\repos\Kelompok27\Kelompok27\Kelompok27\bin\Debug\netstandard2.0\Kelompok27.dll
+C:\Users\owner\source\repos\Kelompok27\Kelompok27\Kelompok27\bin\Debug\netstandard2.0\Kelompok27.pdb
+C:\Users\owner\source\repos\Kelompok27\Kelompok27\Kelompok27\obj\Debug\netstandard2.0\Kelompok27.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\Kelompok27\Kelompok27\Kelompok27\obj\Debug\netstandard2.0\Kelompok27.App.xaml.g.cs
+C:\Users\owner\source\repos\Kelompok27\Kelompok27\Kelompok27\obj\Debug\netstandard2.0\Kelompok27.LoginPage.xaml.g.cs
+C:\Users\owner\source\repos\Kelompok27\Kelompok27\Kelompok27\obj\Debug\netstandard2.0\Kelompok27.MainPage.xaml.g.cs
+C:\Users\owner\source\repos\Kelompok27\Kelompok27\Kelompok27\obj\Debug\netstandard2.0\Kelompok27.SignUpPage.xaml.g.cs
+C:\Users\owner\source\repos\Kelompok27\Kelompok27\Kelompok27\obj\Debug\netstandard2.0\Kelompok27.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\Kelompok27\Kelompok27\Kelompok27\obj\Debug\netstandard2.0\Kelompok27.AssemblyInfo.cs
+C:\Users\owner\source\repos\Kelompok27\Kelompok27\Kelompok27\obj\Debug\netstandard2.0\Kelompok27.dll
+C:\Users\owner\source\repos\Kelompok27\Kelompok27\Kelompok27\obj\Debug\netstandard2.0\Kelompok27.pdb
